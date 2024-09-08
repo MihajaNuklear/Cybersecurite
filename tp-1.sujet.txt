@@ -1,0 +1,16 @@
+Description
+
+    Installer et configurer un serveur (web) dans une DMZ.
+    Configurer les pare-feu pour permettre l'accès public aux services de la DMZ tout en restreignant l'accès au réseau interne.
+    Configurer les règles NAT (Network Address Translation) si nécessaire au niveau du serveur pare-feu.
+    Simuler des attaques pour évaluer l'efficacité de la DMZ.
+
+Livrables
+
+    Un schéma du réseau incluant la DMZ, les serveurs et les pare-feu.
+    Un rapport détaillant la configuration du pare-feu.
+    Captures d'écran des règles de filtrage configurées.
+    Analyse des résultats des tests effectués.
+    Configuration IDS (Snort), journal des alertes, et rapport d'analyse.
+    Les configurations de pare-feu et de NAT.
+    Un rapport sur les résultats des tests et l'analyse de l'efficacité de la DMZ.
